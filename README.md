@@ -1,4 +1,4 @@
-# 👋 Hola, mi nombre es Omar. 👨‍💻
+# 👋 Hola, mi nombre es Omar 👨‍💻
 
 ☕ Soy ingeniero de software con 11 años de experiencia de desarrollo en plataforma Java.
 
@@ -8,7 +8,7 @@
 
 # Contáctame
 
-<a href="https://github.com/sponsors/M0nica"><img align="left" width="250" height="150" src="https://cdn.lowgif.com/full/29c9d106a4b4640d-jim-carrey-geek-gifs-find-share-on-giphy.gif?raw=true"></a>
+<a href="https://github.com/sponsors/M0nica"><img align="left" width="250" height="150" src="https://cdn.lowgif.com/full/29c9d106a4b4640d-jim-carrey-geek-gifs-find-share-on-giphy.gif?raw=true"></a><br><br><br><br><br><br>
 
 ### <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="15" height="15"> Escríbeme: omar.pache@gmail.com
 ### <img src="https://www.svgrepo.com/show/303299/linkedin-icon-2-logo.svg" width="15" height="15"> Conectemos: https://www.linkedin.com/in/omarpache
