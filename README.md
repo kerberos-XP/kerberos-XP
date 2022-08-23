@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hola, mi nombre es Omar 👨‍💻 </h1>
-<h3 align="center">Actualmente trabajo en la empresa Golan como Líder de Desarrollo</h3>
+<h3 align="center">Actualmente trabajo como como Líder de Desarrollo en Golan, empresa que provee software de gestión y soluciones digitales para el rubro farmacéutico.</h3>
 
 ☕ Soy ingeniero de software con 11 años de experiencia de desarrollo en plataforma Java.
 
