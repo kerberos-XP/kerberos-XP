@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hola, mi nombre es Omar 👨‍💻 </h1>
 <h3 align="center">Actualmente trabajo como como Líder de Desarrollo en Golan, empresa que provee software de gestión y soluciones digitales para el rubro farmacéutico.</h3>
 
-☕ Soy ingeniero de software con 11 años de experiencia de desarrollo en plataforma Java.
+☕ Soy ingeniero de software con 12 años de experiencia de desarrollo en plataforma Java.
 
 💪 Estoy descubriendo nuevas y mejores formas de desarrollar software de calidad y valor, trabajando en equipos motivados, en una actitud de permanente aprendizaje y constante superación. 
 
